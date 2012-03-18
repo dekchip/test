@@ -2,6 +2,7 @@
 
 int main()
 {
-   printf("Hello world \n");
+   printf("Hello world 2012 \n");
+
    return 0;
 }
