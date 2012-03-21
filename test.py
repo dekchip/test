@@ -6,10 +6,15 @@ def _test_connection():
 	pass # do something here
 
 
-def display(msg):
-	print(msg)
+def f1():
+	pass
 
-def hello():
+def display(msg):
+	# comment 1
+	print(msg)
+	# comment 2
+
+def hello(message):
 	pass
 
 # This is a comment in python
