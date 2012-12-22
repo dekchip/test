@@ -3,6 +3,7 @@ import tornado
 import sys
 
 def _test_connection():
+"""This is connection testing"""
 	pass # do something here
 
 
