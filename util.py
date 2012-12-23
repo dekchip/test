@@ -6,3 +6,6 @@ def something(v1,v2):
 
 def f1():
 	pass
+
+def f1():
+	pass
